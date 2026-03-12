@@ -36,6 +36,15 @@ Currículo online desenvolvido como site estático, com foco em organização, c
 
 ---
 
+### 🔹 Gerenciamento OS
+Site para divulgação de um Gerenciamento de OS focado
+
+- Repositório: https://github.com/marcospmtech/Gerenciamento-OS
+- Demo: https://marcospmtech.github.io/Gerenciamento-OS
+
+---
+
+
 ## Objetivo atual
 Aprimorar meus conhecimentos em desenvolvimento web, construir projetos cada vez mais completos e evoluir para uma atuação full-stack.
 
