@@ -36,6 +36,13 @@ Currículo online desenvolvido como site estático, com foco em organização, c
 
 ---
 
+### Curriculum 2.0
+Este projeto é um currículo digital moderno, desenvolvido para apresentar informações profissionais de forma clara, organizada e visualmente atrativa.
+
+- Repositório: https://github.com/marcospmtech/curriculum_2.0
+- Demo: https://https://marcosmonea.netlify.app/
+---
+
 ### 🔹 Gerenciamento OS
 Site para divulgação de um Gerenciamento de OS focado
 
