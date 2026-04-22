@@ -28,11 +28,11 @@ Tecnologias: HTML e CSS.
 
 ---
 
-### 🔹 Curriculum
-Currículo online desenvolvido como site estático, com foco em organização, clareza e apresentação profissional.
+### 🔹 Marcos P. Monea - Currículo
+Portfólio pessoal desenvolvido com HTML5 e CSS3 para apresentar meus projetos, certificados e evolução.
 
-- Repositório: https://github.com/marcospmtech/curriculum  
-- Demo: https://marcospmtech.github.io/curriculum/
+- Repositório: https://github.com/marcospmtech/Marcos-Monea-Portfolio
+- Demo: https://marcospmtech.github.io/Marcos-Monea-Portfolio/
 
 ---
 
