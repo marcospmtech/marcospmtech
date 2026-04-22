@@ -11,9 +11,12 @@ Tenho experiência básica com **Python**, estou iniciando os estudos em **VB.NE
 ## Tecnologias
 - HTML5  
 - CSS3  
-- Python (básico)  
-- VB.NET (iniciando)  
-- Git e GitHub (básico)
+- Python
+- VB.NET 
+- Git
+- GitHub
+- Photoshop
+- Illustrator
 
 ---
 
@@ -36,11 +39,11 @@ Portfólio pessoal desenvolvido com HTML5 e CSS3 para apresentar meus projetos, 
 
 ---
 
-### Curriculum 2.0
-Este projeto é um currículo digital moderno, desenvolvido para apresentar informações profissionais de forma clara, organizada e visualmente atrativa.
+### 🔹 To-do List in Terminal
+Projeto simples em python para salvar tarefas em um JSON, tendo opções como deletar, editar, status entre outras.
 
-- Repositório: https://github.com/marcospmtech/curriculum_2.0
-- Demo: https://https://marcosmonea.netlify.app/
+- Repositório: https://github.com/marcospmtech/To-do-List-in-Terminal
+
 ---
 
 ### 🔹 Gerenciamento OS
@@ -51,6 +54,12 @@ Site para divulgação de um Gerenciamento de OS focado
 
 ---
 
+### 🔹 Password Generator
+Script Python simples para gerar senhas seguras aleatórias, com opção de salvar histórico em arquivo JSON.
+
+- Repositório: https://github.com/marcospmtech/Password-Generator
+
+---
 
 ## Objetivo atual
 Aprimorar meus conhecimentos em desenvolvimento web, construir projetos cada vez mais completos e evoluir para uma atuação full-stack.
