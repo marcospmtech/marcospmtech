@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
 </div>
 
-# 💠 Projects
 
+# 💠 Projects
 ### 🔹 Corner
 Corner is a minimalist combat sports timer built for boxing, MMA, Muay Thai and other martial arts. The application features customizable rounds, rest intervals, audio alerts and preset configurations, providing a clean and focused experience for both training sessions and professional use. Developed with a responsive interface and optimized performance for desktop and mobile devices.
 
@@ -65,7 +65,7 @@ Python-based password generator designed to create secure random passwords with 
 - [Repository](https://github.com/marcospmtech/Password-Generator)
 
 
-# 💠 Contato
-- Email: marcos.monea@yahoo.com
-- LinkedIn: [Clique aqui](https://www.linkedin.com/in/marcostech)
-- GitHub: [Clique aqui](https://www.github.com/marcospmtech)
+# 💠 Contact
+- [E-mail](mailto:marcos.monea@yahoo.com)
+- [LinkedIn](https://www.linkedin.com/in/marcostech)
+- [GitHub](https://www.github.com/marcospmtech)
