@@ -25,6 +25,15 @@
 
 
 # 💠 Projects
+
+
+### 🔹 Riffly
+Riffly is a modern music platform designed to provide musicians with essential tools and resources in one place. The application features an instrument tuner, metronome, chord charts, music and artist search, user authentication and an administrative dashboard for content management. Built with a responsive interface and Progressive Web App (PWA) support, Riffly delivers a practical and accessible experience across desktop and mobile devices.
+
+- [Repository](https://github.com/marcospmtech/riffly)
+- [Demo](https://riffly-k203.onrender.com/)
+
+  
 ### 🔹 Corner
 Corner is a minimalist combat sports timer built for boxing, MMA, Muay Thai and other martial arts. The application features customizable rounds, rest intervals, audio alerts and preset configurations, providing a clean and focused experience for both training sessions and professional use. Developed with a responsive interface and optimized performance for desktop and mobile devices.
 
