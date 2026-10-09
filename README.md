@@ -31,7 +31,7 @@
 Riffly is a modern music platform designed to provide musicians with essential tools and resources in one place. The application features an instrument tuner, metronome, chord charts, music and artist search, user authentication and an administrative dashboard for content management. Built with a responsive interface and Progressive Web App (PWA) support, Riffly delivers a practical and accessible experience across desktop and mobile devices.
 
 - [Repository](https://github.com/marcospmtech/riffly)
-- [Demo](https://riffly-k203.onrender.com/)
+- [Demo](https://riffly-v2-0.onrender.com/)
 
   
 ### 🔹 Corner
